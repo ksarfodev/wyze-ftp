@@ -1,0 +1,13 @@
+﻿{
+  "access_token": "{{access_token}}",
+  "app_name": "com.hualai",
+  "app_version": "2.23.21",
+  "phone_system_type": "2",
+  "app_ver": "com.hualai___2.23.21",
+  "phone_id": "3cf2b692-01a1-4902-9069-1cd70eb1df2f",
+  "sc": "a626948714654991afd3c0dbd7cdb901",
+  "sv": "81d1abc794ba45a39fdd21233d621e84",
+  "ts": "{{current_date}}",
+  "device_mac": "{{mac_address}}",
+  "device_model": "Unknown"
+}
