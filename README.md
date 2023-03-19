@@ -69,7 +69,7 @@ WCV3 login: root
 ```
 
 ### Advanced Setup
-* Instead of using wz_mini_hacks, the WyzeCam firmware will need to be modified to enable telnet and start an FTP server allowing access to the video and alarm folder content from within a private network using telnet credentials. See the following [README](https://github.com/ksarfodev/wyze-ftp/blob/main/Documentation/firmware_modification.md)
+* Instead of using wz_mini_hacks, the WyzeCam firmware can be modified to enable telnet and start an FTP server. This will allow access to the video and alarm folder content from within a private network using telnet credentials. See the following [README](https://github.com/ksarfodev/wyze-ftp/blob/main/Documentation/firmware_modification.md)
   
 * DNS spoofing is still an option for applying modified camera firmware . See the following [README](https://github.com/ksarfodev/wyze-ftp/blob/main/Documentation/dns_spoofing.md) for some helpful information.
 
