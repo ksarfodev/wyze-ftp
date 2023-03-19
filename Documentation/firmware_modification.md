@@ -1,3 +1,5 @@
+The information on this repository is for general informational purposes only. There is no representation or warranty, express or implied. Your use of the repository is solely at your own risk. This repository may contain links to third party content, which I do not warrant, or assume liability for.
+
 ### Firmware Modification
 The WyzeCam V3 firmware 4.36.8.15 can be modified and applied to the WyzeCam V3 successfully using DNS spoofing
 
