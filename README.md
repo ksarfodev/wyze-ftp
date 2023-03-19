@@ -1,3 +1,4 @@
+The information on this repository is for general informational purposes only. There is no representation or warranty, express or implied. Your use of the repository is solely at your own risk. This repository may contain links to third party content, which I do not warrant, or assume liability for.
 
 ### Background  
 The purpose of this project is to provide a solution for backing up 24/7 security video and images from Wyze security cameras onto a central hard drive via FTP. This solution has only been tested on the WyzeCam V3.
