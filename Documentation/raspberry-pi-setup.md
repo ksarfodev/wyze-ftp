@@ -26,8 +26,7 @@ cd /home/pi/Documents/FtpDownloader/ && ./FtpDownloader
 From Visual Studio- FtpDownloader published as a self contained file for linux-arm
 * Select the option to produce a single file
 
-![VS profile dialog](https://github.com/ksarfodev/wyze-ftp/blob/main/Documentation/Pasted%20image%2020230225171803.png)
-
+![vs profile setting](https://github.com/ksarfodev/wyze-ftp/blob/main/Documentation/screenshots/Pasted%20image%2020230225193325.png)
 
 * WinSCP is a great tool for copying files between Windows and Linux
 * Run the following on Raspberry Pi after each new published release: 
@@ -63,7 +62,8 @@ Modify crontab as follows:
 
 
 Confirm files successfully downloaded using a tool such as WinSCP:
-![WinSCP ftp directory](https://github.com/ksarfodev/wyze-ftp/blob/main/Documentation/Pasted%20image%2020230225193942.png)
+
+![WinSCP ftp directory](https://github.com/ksarfodev/wyze-ftp/blob/main/Documentation/screenshots/Pasted%20image%2020230225193942.png)
 
 
 
