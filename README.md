@@ -57,7 +57,7 @@ exit
 CUSTOM_SCRIPT_PATH="/opt/wz_mini/etc/configs/telnet_script.sh"
 ```
 
-* Place the provided version of [busybox](https://github.com/ksarfodev/wyze-ftp/blob/main/busybox) in the root directory of SD card
+* Place the provided version of [busybox](https://github.com/ksarfodev/wyze-ftp/blob/main/Busybox/busybox) in the root directory of SD card
 
 * Reboot the camera then confirm telnet and FTP access works as expected
 
